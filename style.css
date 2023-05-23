@@ -1,0 +1,21 @@
+/* Elements selectors */
+
+p {
+    background-color: grey;
+    border: 3px solid green;
+}
+
+/* Classes selectors */
+
+.p1 {
+    height: 100px;
+}
+
+.p2 {
+    width: 50%;
+}
+
+.p3 {
+    height: 200px;
+    width: 200px;
+}
